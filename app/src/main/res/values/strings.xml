@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Air Mineral</string>
+
+    <string name="filler_text">Air mineral adalah air yang mengandung mineral atau bahan-bahan larut lain yang
+        mengubah rasa atau memberi nilai-nilai terapi.
+        Banyak kandungan Garam, sulfur, dan gas-gas yang larut di dalam air ini.
+        Air mineral biasanya masih memiliki buih.
+        Air mineral bersumber dari mata air yang berada di alam.
+        Di Indonesia, bisnis air mineral dimulai pada tahun 1973 dengan merek Aqua,
+        bisnis tersebut didirikan oleh Tirto Utomo dan Ibnu Sutowo.
+        Institut Pertanian Bogor melalui Departemen Teknologi Industri Pertanian mendirikan
+        Satuan Usaha Akademik "BENING" yang bertujuan untuk memproduksi air mineral dalam kemasan.
+        Mineral juga merupakan sumber minuman kepada atlet.
+        Mineral dapat menggantikan dan memulihkan sel-sel badan yang lama kepada sel yang baru.
+        Namun hakikatnya air mineral adalah lebih mahal daripada air minuman..</string>
+
+    <string-array name="main_titles">
+        <item>Ades</item>
+        <item>Amidis</item>
+        <item>Aqua</item>
+        <item>Cleo</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Club</item>
+        <item>Le Minerale</item>
+        <item>Nestle</item>
+        <item>Pristine</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="main_info">
+        <item>Ada Ades disni </item>
+        <item>Ada Amidis disini</item>
+        <item>Ada Aqua disini</item>
+        <item>Ada Cleo disini</item>
+        <item>Ada Equil disini</item>
+        <item>Ada Evian disini</item>
+        <item>Ada Club disini</item>
+        <item>Ada Le Minerale disini</item>
+        <item>Ada Nestle disini</item>
+        <item>Ada Pristine disini</item>
+        <item>Ada Vit disini</item>
+    </string-array>
+
+    <array name="main_images">
+        <item>@drawable/img_ades</item>
+        <item>@drawable/img_amidis</item>
+        <item>@drawable/img_aquaa</item>
+        <item>@drawable/img_cleo</item>
+        <item>@drawable/img_equil</item>
+        <item>@drawable/img_evian</item>
+        <item>@drawable/img_club</item>
+        <item>@drawable/img_leminerale</item>
+        <item>@drawable/img_nestle</item>
+        <item>@drawable/img_pristine</item>
+        <item>@drawable/img_vit</item>
+    </array>
+</resources>
